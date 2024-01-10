@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claysandos
 - 👀 I’m interested in software development and its collaboration with robotics.
-- 🌱 I’m currently learning CS3500
+- 🌱 Current courses: CS3500, CS2100
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ride motorcycles.
 
