@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @claysandos
-- 👀 I’m interested in: embedded programming and AI.
+- 👀 I’m interested in: Web Software and Databases
 - 🌱 Current courses: CS4150, CS4530
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ride motorcycles.
