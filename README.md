@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @claysandos
 - 👀 I’m interested in: Web Software and Databases
-- 🌱 Current courses: CS4150, CS4530
-- 😄 Pronouns: He/Him
+- 🌱 Current courses: CS3130, CS3550, CS4400
 - ⚡ Fun fact: I ride motorcycles.
 
 <!---
