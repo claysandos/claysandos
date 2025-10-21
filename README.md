@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @claysandos
-- 👀 I’m interested in: Web Software, Databases, and Embedded Programming.
+- 👀 I’m interested in: Web Software, Databases, and Embedded Software.
 - 🌱 Current courses: CS3130, CS3550, CS4400
 - ⚡ Fun fact: I ride motorcycles.
 
