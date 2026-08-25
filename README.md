@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claysandos
-- 👀 I’m interested in: Web Software, Embedded Software, and Databases.
-- 🌱 Current courses: CS3100, CS4550, CS5530
+- 👀 I’m interested in: Web Software, Networks, and Databases.
+- 🌱 Current courses: CS3960 - Scalable Software Systems, CS4000 - Senior Capstone Design, CS4480 - Computer Networks 
 - ⚡ Fun fact: I ride motorcycles.
 
 <!---
